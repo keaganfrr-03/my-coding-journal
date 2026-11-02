@@ -8,3 +8,5 @@ I’m rebuilding my coding skills and keeping track of what I learn in each sess
 * Learn the languages on my roadmap.
 * Build projects and record my progress. (such as Still building my coding habit.)
 
+CHANGES
+
